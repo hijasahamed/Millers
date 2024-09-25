@@ -30,3 +30,12 @@ final List<String> collectionList = [
 final List<String> collectionListNames = [
   'Resin','Dried Fruit','Dried Leaf','Essential Oil'
 ];
+
+
+final List<String> incenseCollectionList = [
+  'assets/images/incense collection 1.png',
+  'assets/images/incense collection 2.png',
+  'assets/images/incense collection 3.png',
+  'assets/images/incense collection 1.png',
+  'assets/images/incense collection 2.png',
+];

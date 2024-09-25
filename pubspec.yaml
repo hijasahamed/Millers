@@ -66,6 +66,9 @@ flutter:
     - assets/images/Dried leaf Collections.png
     - assets/images/Essential Oil Collections.png
     - assets/images/Resin Collections.png
+    - assets/images/incense collection 1.png
+    - assets/images/incense collection 2.png
+    - assets/images/incense collection 3.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
