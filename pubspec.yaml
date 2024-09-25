@@ -62,6 +62,10 @@ flutter:
     - assets/images/SPICES.png
     - assets/images/buyonegetonefree.png
     - assets/images/BuyNowPayLater.png
+    - assets/images/Dried Fruit Collections.png
+    - assets/images/Dried leaf Collections.png
+    - assets/images/Essential Oil Collections.png
+    - assets/images/Resin Collections.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
