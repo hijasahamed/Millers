@@ -54,6 +54,14 @@ flutter:
     - assets/images/notification icon.svg
     - assets/images/search icon.png
     - assets/images/carosla picture.png
+    - assets/images/INCENSE.png
+    - assets/images/FRAGRANCE & ESSENTIAL OIL.png
+    - assets/images/HERBS.png
+    - assets/images/POTPURI SET.png
+    - assets/images/RARE HERBS.png
+    - assets/images/SPICES.png
+    - assets/images/buyonegetonefree.png
+    - assets/images/BuyNowPayLater.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
